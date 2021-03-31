@@ -10,7 +10,7 @@ const api = {
 function App() {
   const [realTime, setRealTime] = useState(new Date().toLocaleTimeString());
 
-  const [query, setQuery] = useState("");
+  const [query, setQuery] = useState(null);
   const [data, setData] = useState(null);
   const [isPending, setIsPending] = useState(true);
   const [error, setError] = useState(null);
@@ -110,9 +110,7 @@ function App() {
             placeholder="Ho Chi Minh, Ha Noi, ..."
             value={query}
             onChange={(e) => {
-              if (e.target.value !== "") {
-                setQuery(e.target.value);
-              }
+              setQuery(e.target.value);
             }}
             onKeyPress={(e) => searchCity(e)}
           />
