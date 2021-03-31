@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/simpleweathercheckapp/static/css/main.7560e441.chunk.css",
+    "main.js": "/simpleweathercheckapp/static/js/main.2359289d.chunk.js",
+    "main.js.map": "/simpleweathercheckapp/static/js/main.2359289d.chunk.js.map",
+    "runtime-main.js": "/simpleweathercheckapp/static/js/runtime-main.c3e94bae.js",
+    "runtime-main.js.map": "/simpleweathercheckapp/static/js/runtime-main.c3e94bae.js.map",
+    "static/js/2.0ac37168.chunk.js": "/simpleweathercheckapp/static/js/2.0ac37168.chunk.js",
+    "static/js/2.0ac37168.chunk.js.map": "/simpleweathercheckapp/static/js/2.0ac37168.chunk.js.map",
+    "static/js/3.fa14b738.chunk.js": "/simpleweathercheckapp/static/js/3.fa14b738.chunk.js",
+    "static/js/3.fa14b738.chunk.js.map": "/simpleweathercheckapp/static/js/3.fa14b738.chunk.js.map",
+    "index.html": "/simpleweathercheckapp/index.html",
+    "static/css/main.7560e441.chunk.css.map": "/simpleweathercheckapp/static/css/main.7560e441.chunk.css.map",
+    "static/js/2.0ac37168.chunk.js.LICENSE.txt": "/simpleweathercheckapp/static/js/2.0ac37168.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/simpleweathercheckapp/static/media/biensang.cd187fa3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3e94bae.js",
+    "static/js/2.0ac37168.chunk.js",
+    "static/css/main.7560e441.chunk.css",
+    "static/js/main.2359289d.chunk.js"
+  ]
+}
